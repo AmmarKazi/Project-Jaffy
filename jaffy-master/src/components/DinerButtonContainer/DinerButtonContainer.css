@@ -1,0 +1,19 @@
+.restaurantName {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    color: #2d4059;
+}
+
+#topRightButton {
+    margin-left: 50vw;
+}
+
+#middleRightButton {
+    margin-left: 50vw;
+}
+
+#bottomRightButton {
+    margin-left: 50vw;
+}

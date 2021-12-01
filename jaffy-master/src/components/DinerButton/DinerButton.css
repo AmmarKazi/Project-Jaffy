@@ -1,0 +1,28 @@
+.dinerButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 50vw;
+    border: 1px solid #BC8547;
+    background-color: white;
+    text-decoration: none;
+}
+
+.dinerButton:focus {
+    outline: none;
+}
+
+.dinerButton > div {
+    text-align: center;
+}
+
+.enabled {
+    background-color: #BC8547;
+    color: white;
+}
+
+.disabled {
+    background-color: white;
+    color: #BC8547;
+}
