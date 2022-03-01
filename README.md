@@ -7,3 +7,13 @@ a resteraunt managing webapp that can be displayed trhough scanning a simple QR 
 disturb and more, all through their smartphone. On the other side of the application, the restaruant is able to see a queue of orders and requests and be able to access analytics 
 about their service. This creates a seamless experience between staff and customers and allows for a smooth and enjoyable time during the pandemic.
 
+Application testing:
+
+https://jaffy-ec360.web.app/customer?table=2 - Web app customer version
+
+This will give you the customer version of the web app, open this with the staff version to get the full experience!
+
+https://jaffy-ec360.web.app/ - Web app staff version
+
+
+
