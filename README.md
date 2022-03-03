@@ -1,4 +1,4 @@
-# Project-Jaffy
+# Project-Jaffy Restaurant Companian and Manager
 A restaruant manager created using TypeScript, React and Firebase
 
 Project Jaffy was a passion project that was created in the midst of the COVID Pandemic. After realizing that resteraunts were slowly becoming more virtual and implementing
